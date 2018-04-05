@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "It's juast a blog"
+title                    : "It's just a blog"
 title_separator          : "-"
 name                     : "Jack Minello"
 description              : "Another useless blog."
